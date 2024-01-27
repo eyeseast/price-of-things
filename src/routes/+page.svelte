@@ -1,4 +1,5 @@
 <script>
+	import Thing from "$lib/Thing.svelte";
 	import prices from "$lib/data.json";
 
 	/** @param {string | number | Date} d */
@@ -14,12 +15,5 @@
 <h1>Price of Things</h1>
 
 {#each prices as thing}
-	<div class="thing">
-		<h2><a href="/{thing.id}-{thing.slug}">{thing.name}</a></h2>
-		<h3>{thing.price_raw}</h3>
-		{@html thing.content}
-		<div class="date">
-			<time datetime={thing.date}>{format_date(thing.date)}</time>
-		</div>
-	</div>
+	<Thing level={2} {...thing} />
 {/each}
