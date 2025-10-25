@@ -73,3 +73,5 @@ Each item in data.json has:
 - After running `npm run data`, rebuild the app to see changes
 - Tests use Vitest, configured to look for `*.test.js` and `*.spec.js` files in `src/`
 - Project uses JavaScript with JSDoc type annotations (jsconfig.json)
+- Python can be used for scripting. Use `uv` to manage Python dependencies.
+- For manipulating frontmatter files, use [python-frontmatter](https://github.com/eyeseast/python-frontmatter)

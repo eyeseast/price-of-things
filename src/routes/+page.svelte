@@ -1,11 +1,6 @@
 <script>
 	import Thing from "$lib/Thing.svelte";
 	import prices from "$lib/data.json";
-
-	/** @param {string | number | Date} d */
-	function format_date(d) {
-		return new Date(d).toDateString();
-	}
 </script>
 
 <svelte:head>

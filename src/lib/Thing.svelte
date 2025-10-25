@@ -20,7 +20,7 @@
 		price = 0,
 		price_raw = "",
 		date = "",
-		content = ""
+		content = "",
 	} = $props();
 
 	/** @param {string | number | Date} d */
