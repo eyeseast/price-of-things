@@ -1,12 +1,27 @@
 <script>
-	export let level = 1;
-	export let id = "";
-	export let name = "";
-	export let slug = "";
-	export let price = 0;
-	export let price_raw = "";
-	export let date = "";
-	export let content = "";
+	/**
+	 * @typedef {Object} Props
+	 * @property {number} [level]
+	 * @property {string} [id]
+	 * @property {string} [name]
+	 * @property {string} [slug]
+	 * @property {number} [price]
+	 * @property {string} [price_raw]
+	 * @property {string} [date]
+	 * @property {string} [content]
+	 */
+
+	/** @type {Props} */
+	let {
+		level = 1,
+		id = "",
+		name = "",
+		slug = "",
+		price = 0,
+		price_raw = "",
+		date = "",
+		content = ""
+	} = $props();
 
 	/** @param {string | number | Date} d */
 	function format_date(d) {

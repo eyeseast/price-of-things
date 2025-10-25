@@ -1,7 +1,13 @@
 <script>
 	import Thing from "$lib/Thing.svelte";
-	/** @type {import('./$types').PageData} */
-	export let data;
+	
+	/**
+	 * @typedef {Object} Props
+	 * @property {import('./$types').PageData} data
+	 */
+
+	/** @type {Props} */
+	let { data } = $props();
 
 	/** @param {string | number | Date} d */
 	function format_date(d) {
