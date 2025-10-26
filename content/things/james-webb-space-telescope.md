@@ -1,5 +1,5 @@
 ---
-date: '2021-12-24'
+date: "2021-12-24"
 link: https://www.nbcnews.com/science/space/james-webb-telescope-set-for-launch-nasa-rcna9489
 name: James Webb Space Telescope
 paid_by: NASA

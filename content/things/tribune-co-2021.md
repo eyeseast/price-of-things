@@ -1,5 +1,5 @@
 ---
-date: '2021-05-21'
+date: "2021-05-21"
 link: https://www.npr.org/2021/05/21/998730863/vulture-fund-alden-global-known-for-slashing-newsrooms-buys-tribune-papers
 name: Tribune Co. (2021)
 paid_by: Alden Global Capital

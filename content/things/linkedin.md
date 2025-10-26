@@ -1,5 +1,5 @@
 ---
-date: '2016-06-13'
+date: "2016-06-13"
 link: https://www.theverge.com/2016/6/13/11920072/microsoft-linkedin-acquisition-2016
 name: LinkedIn
 paid_by: Microsoft

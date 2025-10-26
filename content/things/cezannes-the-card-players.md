@@ -1,5 +1,5 @@
 ---
-date: '2002-02-12'
+date: "2002-02-12"
 link: http://www.vanityfair.com/culture/2012/02/qatar-buys-cezanne-card-players-201202
 name: Cézanne’s The Card Players
 paid_by: Qatar

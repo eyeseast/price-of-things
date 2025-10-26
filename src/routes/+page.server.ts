@@ -32,7 +32,7 @@ export async function load(): Promise<{ things: Thing[] }> {
 				content,
 				slug,
 			} as Thing;
-		}),
+		})
 	);
 
 	// Sort by date, newest first

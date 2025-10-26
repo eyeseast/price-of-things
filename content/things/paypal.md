@@ -1,5 +1,5 @@
 ---
-date: '2002-07-08'
+date: "2002-07-08"
 link: http://news.cnet.com/2100-1017-941964.html
 name: PayPal
 paid_by: eBay

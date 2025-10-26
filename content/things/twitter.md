@@ -1,5 +1,5 @@
 ---
-date: '2022-11-01'
+date: "2022-11-01"
 link: https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement
 name: Twitter
 paid_by: Elon Musk

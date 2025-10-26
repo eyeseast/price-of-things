@@ -1,5 +1,5 @@
 ---
-date: '2023-11-16'
+date: "2023-11-16"
 link: https://www.bostonglobe.com/2023/11/16/metro/cost-to-fix-mbta/
 name: Repair costs for the MBTA
 paid_by: Massachusetts

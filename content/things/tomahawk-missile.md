@@ -1,5 +1,5 @@
 ---
-date: '2024-01-19'
+date: "2024-01-19"
 link: https://www.politico.com/news/2024/01/19/tomahawk-missiles-funding-red-sea-houthi-strikes-00136648
 name: Tomahawk missile
 paid_by: US Dept of Defense

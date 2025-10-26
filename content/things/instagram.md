@@ -1,5 +1,5 @@
 ---
-date: '2012-04-09'
+date: "2012-04-09"
 link: http://dealbook.nytimes.com/2012/04/09/facebook-buys-instagram-for-1-billion/?_r=0
 name: Instagram
 paid_by: Facebook

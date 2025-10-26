@@ -1,5 +1,5 @@
 ---
-date: '2018-06-04'
+date: "2018-06-04"
 link: https://www.theverge.com/2018/6/4/17422788/microsoft-github-acquisition-official-deal
 name: Github
 paid_by: Microsoft

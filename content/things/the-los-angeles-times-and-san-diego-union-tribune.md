@@ -1,5 +1,5 @@
 ---
-date: '2018-02-07'
+date: "2018-02-07"
 link: https://variety.com/2018/biz/news/la-times-sold-patrick-soon-shiong-1202690286/
 name: The Los Angeles Times and San Diego Union-Tribune
 paid_by: Patrick Soon-Shiong

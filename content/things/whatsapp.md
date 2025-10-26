@@ -1,5 +1,5 @@
 ---
-date: '2014-02-19'
+date: "2014-02-19"
 link: http://money.cnn.com/2014/02/19/technology/social/facebook-whatsapp/
 name: WhatsApp
 paid_by: Facebook

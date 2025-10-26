@@ -1,5 +1,5 @@
 ---
-date: '2006-10-09'
+date: "2006-10-09"
 link: http://money.cnn.com/2006/10/09/technology/googleyoutube_deal/?iid=EL
 name: YouTube
 paid_by: Google

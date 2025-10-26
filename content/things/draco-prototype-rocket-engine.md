@@ -1,5 +1,5 @@
 ---
-date: '2023-07-26'
+date: "2023-07-26"
 link: https://www.nytimes.com/2023/07/26/science/nasa-nuclear-rocket-darpa.html
 name: DRACO prototype rocket engine
 paid_by: NASA

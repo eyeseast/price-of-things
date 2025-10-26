@@ -1,5 +1,5 @@
 ---
-date: '2023-07-23'
+date: "2023-07-23"
 link: https://www.nytimes.com/2023/07/23/us/politics/trump-investigations-jack-smith-justice-department.html
 name: The first four months of Special Counsel Jack Smith's investigations into Donald
   Trump

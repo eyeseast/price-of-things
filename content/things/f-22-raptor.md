@@ -1,5 +1,5 @@
 ---
-date: '2011-12-14'
+date: "2011-12-14"
 link: http://www.wired.com/dangerroom/2011/12/f-22-real-cost/
 name: F-22 Raptor
 paid_by: US Dept of Defense

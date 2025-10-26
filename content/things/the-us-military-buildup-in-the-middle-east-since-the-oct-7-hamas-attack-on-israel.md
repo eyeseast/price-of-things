@@ -1,5 +1,5 @@
 ---
-date: '2024-01-24'
+date: "2024-01-24"
 link: https://www.politico.com/news/2024/01/24/pentagon-middle-east-buildup-cost-00137577
 name: The US military buildup in the Middle East since the Oct. 7 Hamas attack on
   Israel

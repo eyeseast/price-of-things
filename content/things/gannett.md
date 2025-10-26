@@ -1,5 +1,5 @@
 ---
-date: '2019-08-05'
+date: "2019-08-05"
 link: https://www.usatoday.com/story/money/2019/08/05/gannett-gatehouse-media-new-media-investment-group/1902550001/
 name: Gannett
 paid_by: GateHouse Media

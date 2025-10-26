@@ -1,5 +1,5 @@
 ---
-date: '2024-01-26'
+date: "2024-01-26"
 link: https://www.nytimes.com/2024/01/26/us/politics/turkey-f16s-nato-sweden.html
 name: New and updated F-16s for Turkey
 paid_by: Turkey

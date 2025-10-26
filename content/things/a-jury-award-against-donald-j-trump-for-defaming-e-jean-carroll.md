@@ -1,5 +1,5 @@
 ---
-date: '2024-01-26'
+date: "2024-01-26"
 link: https://www.nytimes.com/2024/01/26/nyregion/trump-defamation-trial-carroll-verdict.html
 name: A jury award against Donald J. Trump, for defaming E. Jean Carroll
 paid_by: Donald J. Trump
