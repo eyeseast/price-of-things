@@ -10,15 +10,14 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
 		"test": "vitest",
 		"lint": "prettier --check .",
-		"format": "prettier --write .",
-		"data": "./scripts/update.js"
+		"format": "prettier --write ."
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^7.0.0",
 		"@sveltejs/kit": "^2.47.3",
 		"@sveltejs/vite-plugin-svelte": "^5.1.1",
+		"@types/node": "^24.9.1",
 		"front-matter": "^4.0.2",
-		"gootenberg": "^1.7.0",
 		"marked": "^11.2.0",
 		"prettier": "^3.1.1",
 		"prettier-plugin-svelte": "^3.2.6",
