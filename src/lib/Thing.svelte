@@ -34,7 +34,7 @@
 </script>
 
 <div class="thing" data-price={price}>
-	<svelte:element this={h(level)}><a href="/{id}-{slug}">{name}</a></svelte:element>
+	<svelte:element this={h(level)}><a href="/{slug}/">{name}</a></svelte:element>
 	<svelte:element this={h(level + 1)}>{price_raw}</svelte:element>
 	{@html content}
 	<div class="date">

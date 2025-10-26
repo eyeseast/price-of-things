@@ -1,6 +1,9 @@
-<script>
+<script lang="ts">
 	import Thing from "$lib/Thing.svelte";
-	import prices from "$lib/data.json";
+
+	type Props = { data: { things: import("$lib/types").Thing[] } };
+
+	let { data }: Props = $props();
 </script>
 
 <svelte:head>
@@ -9,6 +12,6 @@
 
 <h1>Price of Things</h1>
 
-{#each prices as thing}
+{#each data.things as thing}
 	<Thing level={2} {...thing} />
 {/each}
