@@ -6,5 +6,4 @@ paid_by: NASA
 price: 70600000
 ---
 
-Russia reportedly charges the United States $70.6 million per seat to shuttle
-astronauts to and from the International Space Station.
+Russia reportedly charges the United States $70.6 million per seat to shuttle astronauts to and from the International Space Station.

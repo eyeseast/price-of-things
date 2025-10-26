@@ -6,7 +6,6 @@ paid_by: GateHouse Media
 price: 1380000000
 ---
 
-GateHouse Media's owner and Gannett have agreed to merge in a deal aimed at
-cutting overlapping costs and enabling the combined company to pursue a
-digital transformation as the media industry grapples with the disruptive
-forces of online news, social media and smartphones.
+USA Today reports on the sale of its parent company:
+
+> GateHouse Media's owner and Gannett have agreed to merge in a deal aimed at cutting overlapping costs and enabling the combined company to pursue a digital transformation as the media industry grapples with the disruptive forces of online news, social media and smartphones.

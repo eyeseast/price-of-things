@@ -6,8 +6,6 @@ paid_by: NASA
 price: 499000000
 ---
 
-> The DRACO engine would consist of a nuclear reactor that would heat hydrogen
-> from a chilly minus 420 degrees Fahrenheit to a toasty 4,400 degrees, with
-> the hot gas shooting from a nozzle to generate thrust. Greater fuel
-> efficiency could speed up journeys to Mars, reducing the amount of time
-> astronauts spend exposed to the treacherous environment of deep space.
+From the New York Times:
+
+> The DRACO engine would consist of a nuclear reactor that would heat hydrogen from a chilly minus 420 degrees Fahrenheit to a toasty 4,400 degrees, with the hot gas shooting from a nozzle to generate thrust. Greater fuel efficiency could speed up journeys to Mars, reducing the amount of time astronauts spend exposed to the treacherous environment of deep space.

@@ -6,5 +6,6 @@ paid_by: Yahoo!
 price: 1100000000
 ---
 
-Yahoo announced a $1.1 billion deal for blogging site Tumblr early Monday, and
-said it "promises not to screw it up."
+From CNN:
+
+> Yahoo announced a $1.1 billion deal for blogging site Tumblr early Monday, and said it "promises not to screw it up."

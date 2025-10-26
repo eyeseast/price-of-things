@@ -6,5 +6,4 @@ paid_by: US Dept of Defense
 price: 137000000
 ---
 
-The US military pays $137 million for each F-22 Raptor it buys from Lockheed
-Martin.
+The US military pays $137 million for each F-22 Raptor it buys from Lockheed Martin.

@@ -6,6 +6,6 @@ paid_by: Donald J. Trump
 price: 200000
 ---
 
-> The bond agreements for defendants in the Fulton County Trump case so far
-> have ranged from $10,000 for two defendants to the $200K set for Donald
-> Trump.
+From the Atlanta Journal-Constitution:
+
+> The bond agreements for defendants in the Fulton County Trump case so far have ranged from $10,000 for two defendants to the $200K set for Donald Trump.

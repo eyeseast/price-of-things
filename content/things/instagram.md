@@ -6,4 +6,4 @@ paid_by: Facebook
 price: 1000000000
 ---
 
-Facebook acquired Instagram for one billion dollars.
+Facebook acquired Instagram for one billion dollars. It seemed like a lot of money at the time.

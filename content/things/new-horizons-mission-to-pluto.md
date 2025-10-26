@@ -6,7 +6,6 @@ paid_by: NASA
 price: 700000000
 ---
 
-After nine years and a journey of nearly 3-billion miles (4.8 billion km),
-NASA's Pluto-bound New Horizons robotic probe has awoken from its hibernation
-in preparation for a unprecedented flyby of Pluto and other celestial bodies
-in the Kuiper Belt.
+From io9:
+
+> After nine years and a journey of nearly 3-billion miles (4.8 billion km), NASA's Pluto-bound New Horizons robotic probe has awoken from its hibernation in preparation for a unprecedented flyby of Pluto and other celestial bodies in the Kuiper Belt.

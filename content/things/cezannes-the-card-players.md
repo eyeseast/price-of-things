@@ -6,5 +6,4 @@ paid_by: Qatar
 price: 250000000
 ---
 
-Qatar purchased one of five versions of Cézanne’s The Card Players for an
-estimated $250 million.
+Qatar purchased one of five versions of Cézanne’s The Card Players for an estimated $250 million.

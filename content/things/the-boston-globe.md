@@ -6,5 +6,4 @@ paid_by: John Henry
 price: 70000000
 ---
 
-John Henry, owner of the Boston Red Sox, bought the Globe from the New York
-Times Company for $70 million
+John Henry, owner of the Boston Red Sox, bought the Globe from the New York Times Company for $70 million.

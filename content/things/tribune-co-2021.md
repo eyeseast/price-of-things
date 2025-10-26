@@ -6,7 +6,6 @@ paid_by: Alden Global Capital
 price: 633000000
 ---
 
-The purchase represents the culmination of Alden's years-long drive to take
-over the company and its storied titles – including the Chicago Tribune, The
-Baltimore Sun, New York Daily News and major metro papers from Hartford,
-Conn., to Fort Lauderdale, Fla.
+NPR reports on Alden's acquisition of Tribune:
+
+> The purchase represents the culmination of Alden's years-long drive to take over the company and its storied titles – including the Chicago Tribune, The Baltimore Sun, New York Daily News and major metro papers from Hartford, Conn., to Fort Lauderdale, Fla.

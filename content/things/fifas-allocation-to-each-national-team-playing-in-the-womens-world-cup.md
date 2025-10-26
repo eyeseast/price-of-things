@@ -6,8 +6,6 @@ paid_by: FIFA
 price: 1560000
 ---
 
-> Despite FIFA providing each World Cup team with a minimum of $1.56 million
-> to cover expenses for the tournament, Jamaica players last month expressed
-> concerns with training conditions and resources. The mother of one of the
-> players even organized a crowdfunding campaign to help the Reggae Girlz pay
-> for their pre-tournament training camp in Amsterdam.
+USA Today reports:
+
+> Despite FIFA providing each World Cup team with a minimum of $1.56 million to cover expenses for the tournament, Jamaica players last month expressed concerns with training conditions and resources. The mother of one of the players even organized a crowdfunding campaign to help the Reggae Girlz pay for their pre-tournament training camp in Amsterdam.

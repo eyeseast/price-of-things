@@ -6,6 +6,6 @@ paid_by: Automattic
 price: 3000000
 ---
 
-Tumblr, the onetime darling of social media, sold for a whopping $1.1 billion
-in 2013. On Monday, in perhaps the latest mark of its decline, the site was
-reportedly bought for just $3 million.
+Six years later ...
+
+> Tumblr, the onetime darling of social media, sold for a whopping $1.1 billion in 2013. On Monday, in perhaps the latest mark of its decline, the site was reportedly bought for just $3 million.

@@ -6,4 +6,4 @@ paid_by: eBay
 price: 1500000000
 ---
 
-eBay acquired PayPal for $1.5 billion.
+eBay acquired PayPal for $1.5 billion in 2002.

@@ -6,4 +6,4 @@ paid_by: Sam Zell
 price: 8200000000
 ---
 
-Sam Zell paid $8.2 billion to take the Tribune Company private.
+Sam Zell paid $8.2 billion to take the Tribune Company private in 2007.

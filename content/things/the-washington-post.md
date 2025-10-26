@@ -6,5 +6,4 @@ paid_by: Jeff Bezos
 price: 250000000
 ---
 
-Amazon founder Jeff Bezos bought the newspaper from its parent company for
-$250 million.
+Amazon founder Jeff Bezos bought the newspaper from its parent company for $250 million.
