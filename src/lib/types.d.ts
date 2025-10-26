@@ -25,3 +25,8 @@ export interface Thing extends ThingFrontmatter {
 	/** URL slug */
 	slug: string;
 }
+
+/**
+ * Unit types for waffle chart scale
+ */
+export type Unit = "thousand" | "hundred thousand" | "million" | "billion" | "auto";

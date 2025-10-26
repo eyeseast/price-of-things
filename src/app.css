@@ -33,6 +33,7 @@
 
 	/* scales */
 	--color-thousands: #41ab5d;
+	--color-hundred-thousands: #004529;
 	--color-millions: #1d91c0;
 	--color-billions: #ec7014;
 }

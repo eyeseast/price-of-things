@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { Thing } from "$lib/types";
+	import type { Thing, Unit } from "$lib/types";
 	import WaffleChart from "$lib/WaffleChart.svelte";
 
 	type Props = { data: Thing };
@@ -15,6 +15,8 @@
 	const formattedPrice = $derived(
 		data.price_raw || `$${data.price.toLocaleString("en-US")}`
 	);
+
+	let unit = $state<Unit>("auto");
 </script>
 
 <article class="card">
@@ -28,7 +30,19 @@
 		</div>
 	</div>
 
-	<WaffleChart price={data.price} />
+	<div class="visualization">
+		<div class="viz-controls">
+			<label for="scale-select">Scale:</label>
+			<select id="scale-select" bind:value={unit}>
+				<option value="auto">Auto</option>
+				<option value="thousand">Thousand</option>
+				<option value="hundred thousand">Hundred Thousand</option>
+				<option value="million">Million</option>
+				<option value="billion">Billion</option>
+			</select>
+		</div>
+		<WaffleChart price={data.price} bind:unit />
+	</div>
 
 	<div class="content">
 		{@html data.content}
@@ -133,6 +147,37 @@
 
 	.metadata a:hover {
 		text-decoration: underline;
+	}
+
+	.visualization {
+		margin-bottom: var(--spacing-xl);
+	}
+
+	.viz-controls {
+		display: flex;
+		align-items: center;
+		gap: var(--spacing-sm);
+		margin-bottom: var(--spacing-md);
+		font-size: var(--font-size-sm);
+	}
+
+	.viz-controls label {
+		font-weight: 500;
+		color: var(--color-text-secondary);
+	}
+
+	.viz-controls select {
+		padding: var(--spacing-xs) var(--spacing-sm);
+		border: 1px solid var(--color-border);
+		border-radius: var(--border-radius-sm);
+		background: var(--color-bg);
+		color: var(--color-text);
+		font-size: var(--font-size-sm);
+		cursor: pointer;
+	}
+
+	.viz-controls select:hover {
+		border-color: var(--color-primary);
 	}
 
 	@media (max-width: 640px) {
