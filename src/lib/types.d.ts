@@ -6,6 +6,8 @@ export interface ThingFrontmatter {
 	name: string;
 	/** Numeric price value */
 	price: number;
+	price_raw?: number;
+
 	/** ISO date string (YYYY-MM-DD) */
 	date: string;
 	/** Entity that paid for the thing */
