@@ -30,6 +30,11 @@
 
 	/* Typography */
 	--font-mono: "SF Mono", "Monaco", "Menlo", "Consolas", "Courier New", monospace;
+
+	/* scales */
+	--color-thousands: #41ab5d;
+	--color-millions: #1d91c0;
+	--color-billions: #ec7014;
 }
 
 /* Common card style */

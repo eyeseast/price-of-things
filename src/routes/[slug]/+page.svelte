@@ -1,5 +1,6 @@
 <script lang="ts">
 	import type { Thing } from "$lib/types";
+	import WaffleChart from "$lib/WaffleChart.svelte";
 
 	type Props = { data: Thing };
 
@@ -12,7 +13,7 @@
 
 	// Format price with proper formatting
 	const formattedPrice = $derived(
-		data.price_raw || `$${data.price.toLocaleString("en-US")}`,
+		data.price_raw || `$${data.price.toLocaleString("en-US")}`
 	);
 </script>
 
@@ -27,6 +28,8 @@
 		</div>
 	</div>
 
+	<WaffleChart price={data.price} />
+
 	<div class="content">
 		{@html data.content}
 	</div>
@@ -36,7 +39,9 @@
 		<dd>{data.paid_by}</dd>
 
 		<dt>Source:</dt>
-		<dd><a href={data.link} target="_blank" rel="noopener noreferrer">View source</a></dd>
+		<dd>
+			<a href={data.link} target="_blank" rel="noopener noreferrer">View source</a>
+		</dd>
 	</dl>
 </article>
 

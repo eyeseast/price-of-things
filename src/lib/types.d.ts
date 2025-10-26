@@ -6,7 +6,7 @@ export interface ThingFrontmatter {
 	name: string;
 	/** Numeric price value */
 	price: number;
-	price_raw?: number;
+	price_raw?: string;
 
 	/** ISO date string (YYYY-MM-DD) */
 	date: string;

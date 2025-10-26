@@ -16,6 +16,8 @@ npm run preview      # Preview production build
 npm run data         # Update data from Google Sheets (runs scripts/update.js)
 ```
 
+The dev server is running at http://localhost:5173/.
+
 **Code Quality:**
 
 ```bash
