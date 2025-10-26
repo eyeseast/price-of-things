@@ -33,7 +33,7 @@
 	const formattedPrice = $derived(price_raw || `$${price.toLocaleString("en-US")}`);
 </script>
 
-<article class="thing" data-price={price}>
+<article class="thing card" data-price={price}>
 	<div class="thing-header">
 		<div class="thing-price">
 			{formattedPrice}
@@ -53,36 +53,24 @@
 </article>
 
 <style>
-	.thing {
-		border: 1px solid #e0e0e0;
-		padding: 1.5rem;
-		margin-bottom: 1.5rem;
-		background: white;
-		transition: box-shadow 0.2s;
-	}
-
-	.thing:hover {
-		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-	}
-
 	.thing-header {
 		display: grid;
 		grid-template-columns: auto 1fr;
-		gap: 1.5rem;
+		gap: var(--spacing-lg);
 		align-items: start;
-		margin-bottom: 1rem;
+		margin-bottom: var(--spacing-md);
 	}
 
 	.thing-price {
-		font-size: 2rem;
+		font-size: var(--font-size-2xl);
 		font-weight: bold;
-		color: #5755d9;
-		font-family: "SF Mono", "Monaco", "Menlo", "Consolas", "Courier New", monospace;
+		color: var(--color-primary);
+		font-family: var(--font-mono);
 		font-variant-numeric: tabular-nums;
 		white-space: nowrap;
-		padding: 0.5rem 1rem;
-		background: #f8f9fa;
-		border-radius: 6px;
+		padding: var(--spacing-sm) var(--spacing-md);
+		background: var(--color-bg-secondary);
+		border-radius: var(--border-radius-sm);
 		min-width: 150px;
 		text-align: right;
 	}
@@ -90,32 +78,32 @@
 	.thing-details {
 		display: flex;
 		flex-direction: column;
-		gap: 0.25rem;
+		gap: var(--spacing-xs);
 	}
 
 	.thing-name {
 		margin: 0;
-		font-size: 1.25rem;
+		font-size: var(--font-size-xl);
 		line-height: 1.3;
 	}
 
 	.thing-name a {
-		color: #333;
+		color: var(--color-text);
 		text-decoration: none;
 	}
 
 	.thing-name a:hover {
-		color: #5755d9;
+		color: var(--color-primary);
 		text-decoration: underline;
 	}
 
 	.thing-date {
-		font-size: 0.875rem;
-		color: #666;
+		font-size: var(--font-size-sm);
+		color: var(--color-text-secondary);
 	}
 
 	.thing-content {
-		color: #555;
+		color: var(--color-text-tertiary);
 		line-height: 1.6;
 	}
 
@@ -126,7 +114,7 @@
 	@media (max-width: 640px) {
 		.thing-header {
 			grid-template-columns: 1fr;
-			gap: 1rem;
+			gap: var(--spacing-md);
 		}
 
 		.thing-price {
